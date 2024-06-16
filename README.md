@@ -1,6 +1,6 @@
 Edit Distance
 
-A string metric quntifying the differences between two strings.
+A string metric quantifying the differences between two strings.
 
 This example uses a matrix and uses Dynamic Programming to computate the solution.
 
